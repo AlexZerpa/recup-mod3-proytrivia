@@ -12,7 +12,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 90vh;
-  background-image: url(./assets/img/fondo.jpg);
+  background-image: url(../img/fondo.jpg);
   background-size:95%;
 }
 .container {  
@@ -36,7 +36,6 @@ body {
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.5),0 5px 5px 0 rgba(0, 0, 0, 0.2);
   border-radius: 30px;
 }
-
 
 .h2 {
   display: flex;
@@ -98,4 +97,12 @@ body {
 .fail {
   color: #f2315b;
   font-size: 12px;
+}
+
+
+
+.h1{
+  color:#000000;
+  font-size: 50px;
+  font-family: 'Courier New', Courier, monospace;
 }
